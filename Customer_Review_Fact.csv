@@ -1,0 +1,445 @@
+Review_ID,Customer_ID,Product_ID,Review_Date,Product_Rating,Review_Text
+R415901,C100584,P1009,31-12-2025,4,Very good product.
+R336157,C100411,P1006,28-12-2025,1,Extremely poor quality.
+R987386,C100408,P1001,25-12-2025,1,Very disappointed with this purchase.
+R957334,C100064,P1004,22-12-2025,3,"Average quality, acceptable."
+R516153,C101131,P1009,19-12-2025,5,"Excellent quality, highly recommend."
+R993949,C101412,P1019,04-12-2025,2,Not very satisfied.
+R808129,C102149,P1012,03-12-2025,4,Very good product.
+R996622,C100842,P1018,02-12-2025,1,Very disappointed with this purchase.
+R996987,C100973,P1019,21-11-2025,1,Extremely poor quality.
+R514857,C102866,P1009,20-11-2025,1,Very disappointed with this purchase.
+R784593,C101509,P1011,20-11-2025,4,Very good product.
+R850707,C102386,P1017,13-11-2025,2,Below expectations.
+R502930,C102333,P1018,10-11-2025,1,Extremely poor quality.
+R776125,C101596,P1013,02-11-2025,5,"Excellent quality, highly recommend."
+R505145,C102905,P1011,28-10-2025,5,Outstanding product and durability.
+R893159,C101583,P1014,28-10-2025,2,Not very satisfied.
+R516859,C102152,P1023,23-10-2025,1,Very disappointed with this purchase.
+R832320,C100948,P1025,17-10-2025,2,Not very satisfied.
+R955815,C102301,P1014,13-10-2025,1,Very disappointed with this purchase.
+R268911,C100269,P1002,25-09-2025,1,Extremely poor quality.
+R980898,C100020,P1014,25-09-2025,1,Very disappointed with this purchase.
+R315409,C100859,P1013,13-09-2025,1,Very disappointed with this purchase.
+R858130,C102861,P1014,13-09-2025,3,Decent but can improve.
+R952106,C102778,P1017,11-09-2025,2,Below expectations.
+R731039,C101540,P1020,08-09-2025,1,Extremely poor quality.
+R912009,C102951,P1010,05-09-2025,2,Not very satisfied.
+R660164,C102620,P1010,31-08-2025,1,Very disappointed with this purchase.
+R408248,C102480,P1017,28-08-2025,3,Decent but can improve.
+R415225,C102940,P1022,28-08-2025,1,Very disappointed with this purchase.
+R151016,C102711,P1002,19-08-2025,5,Outstanding product and durability.
+R356038,C102126,P1006,19-08-2025,1,Very disappointed with this purchase.
+R681537,C100995,P1013,19-08-2025,1,Extremely poor quality.
+R693458,C102147,P1023,15-08-2025,1,Very disappointed with this purchase.
+R209160,C101559,P1025,14-08-2025,2,Not very satisfied.
+R929293,C101240,P1005,13-08-2025,4,Satisfied with the performance.
+R624478,C102819,P1019,12-08-2025,1,Very disappointed with this purchase.
+R482273,C101322,P1005,10-08-2025,3,"Average quality, acceptable."
+R776630,C102789,P1021,06-08-2025,4,Satisfied with the performance.
+R328988,C102615,P1009,01-08-2025,1,Very disappointed with this purchase.
+R613283,C100795,P1001,30-07-2025,1,Extremely poor quality.
+R247474,C101890,P1007,29-07-2025,1,Very disappointed with this purchase.
+R849487,C101219,P1023,20-07-2025,1,Very disappointed with this purchase.
+R433964,C100155,P1006,14-07-2025,1,Extremely poor quality.
+R233597,C100514,P1020,02-07-2025,3,Decent but can improve.
+R669871,C102579,P1021,02-07-2025,1,Very disappointed with this purchase.
+R292598,C101514,P1025,28-06-2025,2,Not very satisfied.
+R869291,C100853,P1004,26-06-2025,2,Below expectations.
+R894076,C100906,P1015,25-06-2025,3,"Average quality, acceptable."
+R416030,C102453,P1020,20-06-2025,3,Decent but can improve.
+R752769,C100139,P1025,15-06-2025,1,Extremely poor quality.
+R524096,C101201,P1020,10-06-2025,1,Extremely poor quality.
+R478777,C100603,P1022,08-06-2025,2,Below expectations.
+R636788,C100061,P1016,04-06-2025,2,Not very satisfied.
+R788019,C100814,P1002,01-06-2025,1,Extremely poor quality.
+R469522,C100885,P1007,28-05-2025,2,Below expectations.
+R100192,C102626,P1008,21-05-2025,1,Very disappointed with this purchase.
+R556249,C100314,P1024,21-05-2025,2,Not very satisfied.
+R603688,C100974,P1016,19-05-2025,2,Below expectations.
+R847064,C102968,P1017,16-05-2025,2,Below expectations.
+R207131,C101093,P1016,15-05-2025,1,Extremely poor quality.
+R181205,C101667,P1007,10-05-2025,3,"Average quality, acceptable."
+R546381,C101022,P1007,09-05-2025,2,Below expectations.
+R759233,C102711,P1016,09-05-2025,2,Below expectations.
+R448579,C100146,P1018,08-05-2025,2,Not very satisfied.
+R824327,C102702,P1006,03-05-2025,1,Very disappointed with this purchase.
+R363185,C101833,P1005,29-04-2025,4,Satisfied with the performance.
+R993688,C102302,P1011,23-04-2025,4,Satisfied with the performance.
+R782915,C102677,P1022,17-04-2025,1,Extremely poor quality.
+R823372,C100177,P1012,15-04-2025,4,Very good product.
+R448892,C100843,P1024,13-04-2025,1,Very disappointed with this purchase.
+R836515,C100298,P1017,06-04-2025,2,Not very satisfied.
+R771038,C101529,P1008,31-03-2025,3,"Average quality, acceptable."
+R670792,C102091,P1011,26-03-2025,4,Satisfied with the performance.
+R426511,C102347,P1008,22-03-2025,1,Extremely poor quality.
+R223621,C101725,P1008,21-03-2025,1,Extremely poor quality.
+R100303,C100810,P1003,19-03-2025,1,Very disappointed with this purchase.
+R377834,C100540,P1025,18-03-2025,2,Below expectations.
+R788470,C100993,P1021,17-03-2025,4,Satisfied with the performance.
+R781662,C101662,P1002,15-03-2025,5,"Excellent quality, highly recommend."
+R927454,C100338,P1025,09-03-2025,2,Below expectations.
+R378407,C101753,P1020,07-03-2025,1,Very disappointed with this purchase.
+R310632,C100260,P1006,05-03-2025,1,Extremely poor quality.
+R890859,C100928,P1002,28-02-2025,1,Very disappointed with this purchase.
+R933310,C100826,P1023,21-02-2025,1,Very disappointed with this purchase.
+R459265,C102736,P1023,18-02-2025,1,Extremely poor quality.
+R485777,C101808,P1022,16-02-2025,1,Extremely poor quality.
+R237643,C101347,P1013,04-02-2025,5,"Excellent quality, highly recommend."
+R268655,C102866,P1010,02-02-2025,3,Decent but can improve.
+R444539,C101053,P1024,28-01-2025,1,Very disappointed with this purchase.
+R229580,C101127,P1005,25-01-2025,1,Extremely poor quality.
+R850501,C100690,P1009,08-01-2025,1,Extremely poor quality.
+R106573,C102245,P1008,03-01-2025,1,Very disappointed with this purchase.
+R977182,C102659,P1025,27-12-2024,2,Not very satisfied.
+R402794,C100844,P1005,25-12-2024,3,Decent but can improve.
+R198748,C101715,P1006,21-12-2024,1,Extremely poor quality.
+R894099,C100471,P1006,19-12-2024,1,Extremely poor quality.
+R471080,C100939,P1003,15-12-2024,1,Very disappointed with this purchase.
+R667962,C100596,P1012,11-12-2024,1,Very disappointed with this purchase.
+R810359,C102056,P1025,09-12-2024,2,Not very satisfied.
+R945100,C102824,P1003,19-11-2024,2,Not very satisfied.
+R817645,C102600,P1014,15-11-2024,1,Extremely poor quality.
+R514814,C101668,P1002,09-11-2024,1,Extremely poor quality.
+R332940,C102744,P1002,07-11-2024,5,"Excellent quality, highly recommend."
+R979997,C101563,P1009,03-11-2024,4,Very good product.
+R228225,C100003,P1016,02-11-2024,2,Below expectations.
+R680684,C100781,P1003,31-10-2024,1,Extremely poor quality.
+R164648,C102243,P1008,25-10-2024,3,Decent but can improve.
+R184243,C101375,P1013,21-10-2024,5,"Excellent quality, highly recommend."
+R814489,C102723,P1006,19-10-2024,1,Very disappointed with this purchase.
+R121729,C102128,P1008,16-10-2024,4,Very good product.
+R249724,C102392,P1022,15-10-2024,3,"Average quality, acceptable."
+R962705,C100827,P1007,10-10-2024,2,Below expectations.
+R967006,C101408,P1002,02-10-2024,5,"Excellent quality, highly recommend."
+R504563,C102009,P1004,27-09-2024,2,Not very satisfied.
+R249691,C101766,P1007,27-09-2024,1,Very disappointed with this purchase.
+R475333,C101190,P1002,22-09-2024,5,"Excellent quality, highly recommend."
+R423458,C100174,P1008,17-09-2024,3,Decent but can improve.
+R750153,C102982,P1009,14-09-2024,4,Satisfied with the performance.
+R881585,C102577,P1005,13-09-2024,4,Very good product.
+R316353,C100369,P1012,09-09-2024,1,Very disappointed with this purchase.
+R733834,C102160,P1011,01-09-2024,4,Very good product.
+R903891,C102437,P1018,31-08-2024,1,Very disappointed with this purchase.
+R190900,C101736,P1006,24-08-2024,2,Not very satisfied.
+R198344,C100306,P1018,17-08-2024,2,Not very satisfied.
+R499989,C101549,P1025,11-08-2024,3,"Average quality, acceptable."
+R267749,C101451,P1015,07-08-2024,3,"Average quality, acceptable."
+R800716,C101028,P1001,06-08-2024,5,"Excellent quality, highly recommend."
+R945588,C100973,P1019,01-08-2024,2,Not very satisfied.
+R933899,C102582,P1022,31-07-2024,1,Extremely poor quality.
+R703832,C102046,P1007,26-07-2024,1,Very disappointed with this purchase.
+R216368,C101985,P1010,24-07-2024,3,"Average quality, acceptable."
+R828945,C101685,P1017,21-07-2024,2,Below expectations.
+R782146,C100841,P1001,20-07-2024,4,Very good product.
+R775063,C100836,P1013,20-07-2024,5,"Excellent quality, highly recommend."
+R662936,C101226,P1007,16-07-2024,2,Below expectations.
+R902026,C102685,P1010,13-07-2024,2,Below expectations.
+R131257,C101750,P1010,12-07-2024,2,Not very satisfied.
+R920803,C100486,P1012,09-06-2024,3,"Average quality, acceptable."
+R158287,C101941,P1012,06-06-2024,4,Very good product.
+R997175,C102549,P1012,04-06-2024,3,"Average quality, acceptable."
+R172172,C101231,P1025,04-06-2024,1,Extremely poor quality.
+R575212,C100073,P1013,02-06-2024,1,Very disappointed with this purchase.
+R112802,C101690,P1021,30-05-2024,3,"Average quality, acceptable."
+R412767,C102090,P1014,28-05-2024,2,Below expectations.
+R222475,C101651,P1014,20-05-2024,2,Not very satisfied.
+R456565,C101047,P1012,19-05-2024,3,"Average quality, acceptable."
+R946389,C101049,P1013,18-05-2024,5,Outstanding product and durability.
+R988655,C101816,P1009,15-05-2024,4,Very good product.
+R922807,C102070,P1022,10-05-2024,2,Below expectations.
+R613959,C100797,P1003,03-05-2024,1,Extremely poor quality.
+R179514,C101415,P1022,27-04-2024,2,Below expectations.
+R207040,C100169,P1013,14-04-2024,5,"Excellent quality, highly recommend."
+R382782,C100958,P1020,13-04-2024,3,Decent but can improve.
+R659364,C101424,P1021,13-04-2024,3,"Average quality, acceptable."
+R721743,C101558,P1021,10-04-2024,3,"Average quality, acceptable."
+R724089,C100968,P1012,06-04-2024,4,Very good product.
+R935021,C100389,P1023,05-04-2024,1,Extremely poor quality.
+R829282,C100103,P1009,02-04-2024,5,"Excellent quality, highly recommend."
+R923202,C101761,P1001,21-03-2024,4,Satisfied with the performance.
+R730439,C102869,P1009,15-03-2024,4,Very good product.
+R849154,C101988,P1018,11-03-2024,1,Very disappointed with this purchase.
+R242023,C100897,P1007,10-03-2024,1,Very disappointed with this purchase.
+R150240,C100492,P1017,05-03-2024,2,Not very satisfied.
+R257260,C102332,P1010,29-02-2024,2,Not very satisfied.
+R314132,C100671,P1025,29-02-2024,2,Not very satisfied.
+R990076,C101338,P1012,22-02-2024,1,Very disappointed with this purchase.
+R626416,C100956,P1025,19-02-2024,3,"Average quality, acceptable."
+R304610,C102166,P1012,17-02-2024,3,"Average quality, acceptable."
+R737453,C102185,P1003,16-02-2024,1,Very disappointed with this purchase.
+R792299,C100640,P1018,15-02-2024,1,Extremely poor quality.
+R682184,C100032,P1024,08-02-2024,1,Very disappointed with this purchase.
+R729743,C100527,P1008,06-02-2024,3,"Average quality, acceptable."
+R242939,C102901,P1016,03-02-2024,2,Not very satisfied.
+R496682,C100113,P1020,20-01-2024,3,"Average quality, acceptable."
+R158665,C102800,P1007,18-01-2024,1,Extremely poor quality.
+R808587,C101489,P1017,18-01-2024,2,Below expectations.
+R976317,C100028,P1003,17-01-2024,1,Extremely poor quality.
+R816711,C100911,P1010,16-01-2024,3,Decent but can improve.
+R932486,C102322,P1019,13-01-2024,1,Extremely poor quality.
+R913557,C102983,P1011,06-01-2024,5,Outstanding product and durability.
+R658783,C100616,P1012,31-12-2023,1,Extremely poor quality.
+R710254,C100940,P1008,28-12-2023,1,Very disappointed with this purchase.
+R837735,C101220,P1010,28-12-2023,3,Decent but can improve.
+R676356,C101669,P1005,27-12-2023,4,Satisfied with the performance.
+R647076,C101675,P1013,27-12-2023,5,"Excellent quality, highly recommend."
+R796095,C101024,P1010,16-12-2023,2,Not very satisfied.
+R610060,C100692,P1012,13-12-2023,3,Decent but can improve.
+R704745,C100907,P1018,13-12-2023,1,Extremely poor quality.
+R672713,C100236,P1009,12-12-2023,1,Extremely poor quality.
+R533966,C102324,P1008,09-12-2023,3,"Average quality, acceptable."
+R770590,C102167,P1021,01-12-2023,3,"Average quality, acceptable."
+R791576,C102401,P1018,15-11-2023,1,Very disappointed with this purchase.
+R163846,C100558,P1010,11-11-2023,3,Decent but can improve.
+R415863,C100160,P1011,11-11-2023,4,Satisfied with the performance.
+R520827,C100832,P1013,09-11-2023,5,"Excellent quality, highly recommend."
+R652685,C102333,P1018,07-11-2023,2,Not very satisfied.
+R315650,C100218,P1016,05-11-2023,3,Decent but can improve.
+R595301,C101426,P1010,04-11-2023,1,Very disappointed with this purchase.
+R504899,C100596,P1010,31-10-2023,3,Decent but can improve.
+R289629,C100516,P1005,22-10-2023,1,Very disappointed with this purchase.
+R209335,C102929,P1007,15-10-2023,1,Very disappointed with this purchase.
+R593937,C102527,P1015,14-10-2023,2,Below expectations.
+R429978,C100849,P1023,07-10-2023,2,Below expectations.
+R928023,C102655,P1003,04-10-2023,1,Extremely poor quality.
+R735267,C102399,P1014,04-10-2023,2,Not very satisfied.
+R809037,C101575,P1004,03-10-2023,1,Very disappointed with this purchase.
+R759976,C100645,P1008,01-10-2023,3,"Average quality, acceptable."
+R139961,C100513,P1018,01-10-2023,1,Extremely poor quality.
+R219035,C101521,P1003,28-09-2023,1,Very disappointed with this purchase.
+R372192,C100585,P1025,27-09-2023,3,"Average quality, acceptable."
+R884559,C102343,P1005,15-09-2023,3,"Average quality, acceptable."
+R377039,C102416,P1021,14-09-2023,4,Satisfied with the performance.
+R292448,C101845,P1007,09-09-2023,1,Extremely poor quality.
+R745714,C102970,P1007,08-09-2023,2,Below expectations.
+R510856,C102553,P1025,03-09-2023,2,Below expectations.
+R636241,C101432,P1022,30-08-2023,2,Below expectations.
+R866321,C102901,P1019,27-08-2023,1,Extremely poor quality.
+R666912,C100080,P1005,25-08-2023,3,Decent but can improve.
+R329543,C100941,P1011,24-08-2023,1,Extremely poor quality.
+R286729,C100602,P1020,24-08-2023,1,Very disappointed with this purchase.
+R364065,C102115,P1004,23-08-2023,1,Very disappointed with this purchase.
+R908963,C102045,P1013,23-08-2023,1,Very disappointed with this purchase.
+R625832,C101902,P1009,21-08-2023,4,Very good product.
+R196826,C102332,P1003,16-08-2023,2,Below expectations.
+R619059,C101541,P1012,15-08-2023,1,Extremely poor quality.
+R649294,C101460,P1007,08-08-2023,2,Below expectations.
+R829736,C101134,P1014,08-08-2023,1,Very disappointed with this purchase.
+R714197,C100264,P1018,08-08-2023,1,Very disappointed with this purchase.
+R745370,C100909,P1022,05-08-2023,2,Below expectations.
+R675648,C101586,P1018,31-07-2023,1,Extremely poor quality.
+R749422,C102444,P1009,27-07-2023,5,Outstanding product and durability.
+R832115,C102550,P1010,23-07-2023,2,Below expectations.
+R872965,C102031,P1015,22-07-2023,3,Decent but can improve.
+R874017,C100620,P1015,21-07-2023,2,Below expectations.
+R548836,C100631,P1023,14-07-2023,1,Very disappointed with this purchase.
+R171791,C101433,P1001,11-07-2023,4,Very good product.
+R388127,C100588,P1022,11-07-2023,2,Below expectations.
+R103601,C101503,P1021,08-07-2023,4,Satisfied with the performance.
+R520711,C102470,P1025,07-07-2023,3,Decent but can improve.
+R347641,C102496,P1019,04-07-2023,1,Extremely poor quality.
+R163352,C101910,P1012,29-06-2023,1,Very disappointed with this purchase.
+R484015,C102564,P1010,24-06-2023,2,Not very satisfied.
+R419315,C100523,P1003,19-06-2023,1,Extremely poor quality.
+R326538,C100693,P1011,18-06-2023,5,Outstanding product and durability.
+R288251,C100514,P1017,18-06-2023,2,Not very satisfied.
+R910912,C100005,P1008,17-06-2023,4,Very good product.
+R962499,C101030,P1014,17-06-2023,1,Very disappointed with this purchase.
+R632233,C102705,P1015,17-06-2023,2,Below expectations.
+R404301,C102084,P1012,12-06-2023,3,"Average quality, acceptable."
+R426678,C101928,P1014,11-06-2023,3,"Average quality, acceptable."
+R310574,C100529,P1021,11-06-2023,3,"Average quality, acceptable."
+R731389,C100439,P1006,10-06-2023,1,Extremely poor quality.
+R794539,C102192,P1001,07-06-2023,5,Outstanding product and durability.
+R504218,C100091,P1003,06-06-2023,1,Extremely poor quality.
+R937365,C100966,P1008,06-06-2023,4,Very good product.
+R781925,C102742,P1012,06-06-2023,4,Very good product.
+R288958,C100588,P1013,04-06-2023,1,Extremely poor quality.
+R677734,C102628,P1004,30-05-2023,2,Below expectations.
+R829471,C100055,P1023,30-05-2023,1,Extremely poor quality.
+R276118,C100999,P1016,28-05-2023,2,Not very satisfied.
+R785354,C101908,P1025,27-05-2023,1,Very disappointed with this purchase.
+R450458,C100068,P1011,24-05-2023,4,Very good product.
+R996858,C102925,P1011,21-05-2023,1,Very disappointed with this purchase.
+R817660,C100350,P1009,15-05-2023,4,Satisfied with the performance.
+R578560,C102658,P1023,04-05-2023,2,Not very satisfied.
+R317659,C100123,P1016,02-05-2023,2,Not very satisfied.
+R910861,C100430,P1022,02-05-2023,3,"Average quality, acceptable."
+R683895,C101738,P1006,30-04-2023,2,Not very satisfied.
+R445825,C101974,P1023,28-04-2023,1,Extremely poor quality.
+R846102,C100957,P1014,26-04-2023,2,Not very satisfied.
+R469586,C101750,P1020,24-04-2023,3,Decent but can improve.
+R822105,C100265,P1024,20-04-2023,1,Extremely poor quality.
+R778085,C101373,P1019,19-04-2023,1,Very disappointed with this purchase.
+R688974,C101732,P1019,18-04-2023,2,Not very satisfied.
+R534120,C100623,P1002,13-04-2023,1,Extremely poor quality.
+R605652,C100687,P1007,13-04-2023,1,Extremely poor quality.
+R714679,C100451,P1002,07-04-2023,1,Extremely poor quality.
+R159536,C102882,P1011,07-04-2023,5,"Excellent quality, highly recommend."
+R122440,C102835,P1024,02-04-2023,2,Below expectations.
+R134612,C101418,P1002,01-04-2023,5,Outstanding product and durability.
+R488608,C100998,P1021,28-03-2023,3,"Average quality, acceptable."
+R468467,C101305,P1022,26-03-2023,2,Not very satisfied.
+R499220,C100777,P1004,25-03-2023,1,Extremely poor quality.
+R161775,C100005,P1007,21-03-2023,3,"Average quality, acceptable."
+R424282,C102998,P1015,20-03-2023,2,Not very satisfied.
+R547482,C100972,P1006,18-03-2023,2,Not very satisfied.
+R532591,C101077,P1020,13-03-2023,4,Very good product.
+R588697,C100156,P1007,12-03-2023,2,Below expectations.
+R826675,C101675,P1012,08-03-2023,3,"Average quality, acceptable."
+R590944,C102678,P1003,06-03-2023,1,Very disappointed with this purchase.
+R830740,C100076,P1017,06-03-2023,1,Extremely poor quality.
+R534666,C100368,P1003,03-03-2023,2,Not very satisfied.
+R217293,C101251,P1024,03-03-2023,1,Extremely poor quality.
+R213097,C101723,P1005,27-02-2023,4,Very good product.
+R835976,C102023,P1009,27-02-2023,4,Very good product.
+R428219,C100085,P1012,24-02-2023,3,Decent but can improve.
+R458069,C101188,P1021,21-02-2023,1,Extremely poor quality.
+R678641,C100006,P1007,15-02-2023,2,Below expectations.
+R806307,C102111,P1021,11-02-2023,3,Decent but can improve.
+R934684,C102659,P1010,10-02-2023,3,"Average quality, acceptable."
+R805335,C101346,P1019,08-02-2023,1,Very disappointed with this purchase.
+R225469,C100882,P1015,05-02-2023,2,Below expectations.
+R201812,C100286,P1002,01-02-2023,5,"Excellent quality, highly recommend."
+R283150,C102189,P1019,31-01-2023,1,Very disappointed with this purchase.
+R841192,C101896,P1003,29-01-2023,2,Not very satisfied.
+R292974,C102831,P1010,28-01-2023,2,Not very satisfied.
+R762084,C100276,P1011,23-01-2023,4,Very good product.
+R180548,C101806,P1002,22-01-2023,1,Very disappointed with this purchase.
+R959655,C102443,P1006,11-01-2023,1,Very disappointed with this purchase.
+R342434,C102382,P1023,03-01-2023,2,Below expectations.
+R766878,C102426,P1009,02-01-2023,4,Very good product.
+R450184,C101948,P1015,31-12-2022,1,Very disappointed with this purchase.
+R489601,C101791,P1004,30-12-2022,3,"Average quality, acceptable."
+R800041,C102526,P1012,29-12-2022,1,Extremely poor quality.
+R782499,C101986,P1023,27-12-2022,2,Below expectations.
+R803636,C102813,P1002,26-12-2022,1,Extremely poor quality.
+R864526,C102539,P1018,22-12-2022,1,Very disappointed with this purchase.
+R937550,C102153,P1005,20-12-2022,1,Very disappointed with this purchase.
+R771802,C100983,P1019,20-12-2022,1,Extremely poor quality.
+R411781,C102237,P1013,18-12-2022,5,"Excellent quality, highly recommend."
+R403126,C101693,P1020,17-12-2022,1,Extremely poor quality.
+R327216,C102162,P1016,16-12-2022,3,Decent but can improve.
+R896268,C102652,P1010,10-12-2022,2,Below expectations.
+R777209,C100876,P1021,08-12-2022,3,"Average quality, acceptable."
+R892094,C102864,P1012,04-12-2022,3,Decent but can improve.
+R751728,C101498,P1020,03-12-2022,1,Extremely poor quality.
+R118451,C102203,P1005,02-12-2022,3,Decent but can improve.
+R744647,C100587,P1022,01-12-2022,3,"Average quality, acceptable."
+R347609,C101736,P1020,30-11-2022,4,Satisfied with the performance.
+R994895,C100734,P1017,27-11-2022,2,Below expectations.
+R790786,C100527,P1019,26-11-2022,2,Not very satisfied.
+R509248,C102865,P1020,25-11-2022,1,Extremely poor quality.
+R353110,C102651,P1019,16-11-2022,1,Extremely poor quality.
+R384087,C102371,P1004,14-11-2022,3,"Average quality, acceptable."
+R324631,C100250,P1021,13-11-2022,1,Extremely poor quality.
+R827865,C102756,P1025,12-11-2022,2,Not very satisfied.
+R589083,C101481,P1008,11-11-2022,4,Satisfied with the performance.
+R148420,C102903,P1013,10-11-2022,5,"Excellent quality, highly recommend."
+R787376,C101235,P1021,06-11-2022,3,"Average quality, acceptable."
+R833580,C101800,P1010,31-10-2022,2,Below expectations.
+R310274,C101917,P1018,27-10-2022,2,Below expectations.
+R604165,C100185,P1017,25-10-2022,2,Not very satisfied.
+R243554,C102247,P1012,21-10-2022,3,"Average quality, acceptable."
+R852413,C101921,P1023,21-10-2022,1,Very disappointed with this purchase.
+R343710,C100485,P1025,15-10-2022,3,Decent but can improve.
+R233913,C102690,P1005,13-10-2022,4,Very good product.
+R676181,C102734,P1019,12-10-2022,1,Extremely poor quality.
+R664525,C102773,P1017,08-10-2022,1,Very disappointed with this purchase.
+R581142,C102813,P1014,06-10-2022,1,Very disappointed with this purchase.
+R551406,C101972,P1022,05-10-2022,1,Very disappointed with this purchase.
+R953858,C101669,P1007,04-10-2022,1,Very disappointed with this purchase.
+R728838,C101635,P1012,02-10-2022,1,Extremely poor quality.
+R611816,C100365,P1021,01-10-2022,3,"Average quality, acceptable."
+R104270,C102066,P1013,30-09-2022,5,Outstanding product and durability.
+R963291,C100541,P1010,27-09-2022,1,Extremely poor quality.
+R191462,C101447,P1017,26-09-2022,2,Below expectations.
+R610483,C100120,P1003,21-09-2022,1,Very disappointed with this purchase.
+R357419,C101527,P1004,20-09-2022,1,Extremely poor quality.
+R165114,C100052,P1003,19-09-2022,1,Extremely poor quality.
+R726804,C100365,P1005,18-09-2022,4,Very good product.
+R951118,C101572,P1007,18-09-2022,2,Below expectations.
+R529626,C101620,P1002,14-09-2022,5,"Excellent quality, highly recommend."
+R163153,C102342,P1006,30-08-2022,1,Very disappointed with this purchase.
+R257958,C102282,P1024,28-08-2022,1,Extremely poor quality.
+R463279,C100119,P1007,21-08-2022,3,"Average quality, acceptable."
+R387540,C102728,P1015,13-08-2022,3,"Average quality, acceptable."
+R753330,C100376,P1008,10-08-2022,3,"Average quality, acceptable."
+R496563,C100180,P1018,09-08-2022,1,Very disappointed with this purchase.
+R735940,C101971,P1014,08-08-2022,2,Not very satisfied.
+R877732,C102034,P1004,06-08-2022,2,Not very satisfied.
+R265467,C101008,P1003,01-08-2022,1,Extremely poor quality.
+R723766,C100391,P1018,23-07-2022,1,Very disappointed with this purchase.
+R196660,C101085,P1018,22-07-2022,1,Very disappointed with this purchase.
+R520067,C100475,P1018,19-07-2022,1,Extremely poor quality.
+R455155,C100209,P1010,16-07-2022,3,"Average quality, acceptable."
+R375502,C101394,P1016,12-07-2022,2,Not very satisfied.
+R361973,C101237,P1024,10-07-2022,1,Very disappointed with this purchase.
+R393757,C102781,P1024,08-07-2022,1,Very disappointed with this purchase.
+R654955,C102764,P1008,05-07-2022,4,Satisfied with the performance.
+R894342,C101084,P1006,27-06-2022,1,Extremely poor quality.
+R181763,C102190,P1013,26-06-2022,5,"Excellent quality, highly recommend."
+R100434,C102354,P1003,25-06-2022,1,Extremely poor quality.
+R637896,C101932,P1011,21-06-2022,5,"Excellent quality, highly recommend."
+R580420,C100710,P1011,20-06-2022,1,Extremely poor quality.
+R784851,C102153,P1006,16-06-2022,2,Below expectations.
+R679299,C101985,P1024,12-06-2022,1,Very disappointed with this purchase.
+R856821,C102529,P1011,09-06-2022,5,"Excellent quality, highly recommend."
+R413286,C102467,P1002,02-06-2022,5,"Excellent quality, highly recommend."
+R410076,C102271,P1021,02-06-2022,3,Decent but can improve.
+R786198,C100735,P1016,23-05-2022,1,Extremely poor quality.
+R125839,C100084,P1020,23-05-2022,4,Satisfied with the performance.
+R202310,C101209,P1002,21-05-2022,5,Outstanding product and durability.
+R218390,C101314,P1001,18-05-2022,4,Satisfied with the performance.
+R975868,C102614,P1020,16-05-2022,4,Satisfied with the performance.
+R369541,C101778,P1014,15-05-2022,1,Extremely poor quality.
+R744693,C102149,P1020,12-05-2022,3,Decent but can improve.
+R447771,C100804,P1001,11-05-2022,4,Satisfied with the performance.
+R499963,C100052,P1021,10-05-2022,3,Decent but can improve.
+R108603,C102616,P1008,08-05-2022,4,Satisfied with the performance.
+R782527,C102563,P1021,06-05-2022,3,"Average quality, acceptable."
+R712702,C102650,P1014,02-05-2022,1,Very disappointed with this purchase.
+R399347,C102765,P1006,01-05-2022,2,Not very satisfied.
+R922636,C101323,P1010,22-04-2022,1,Extremely poor quality.
+R465251,C101293,P1014,22-04-2022,3,"Average quality, acceptable."
+R287282,C100794,P1017,21-04-2022,1,Extremely poor quality.
+R212799,C101457,P1007,20-04-2022,2,Not very satisfied.
+R385176,C100229,P1022,16-04-2022,3,"Average quality, acceptable."
+R575983,C101085,P1001,11-04-2022,1,Extremely poor quality.
+R882452,C101928,P1022,11-04-2022,1,Very disappointed with this purchase.
+R167998,C101976,P1009,08-04-2022,4,Satisfied with the performance.
+R353416,C101609,P1007,04-04-2022,2,Not very satisfied.
+R397895,C100435,P1016,02-04-2022,2,Not very satisfied.
+R830312,C100432,P1002,30-03-2022,5,"Excellent quality, highly recommend."
+R570186,C102890,P1018,25-03-2022,2,Below expectations.
+R238041,C102472,P1012,22-03-2022,3,Decent but can improve.
+R338302,C100837,P1014,22-03-2022,3,Decent but can improve.
+R567776,C100290,P1006,09-03-2022,1,Very disappointed with this purchase.
+R876398,C100289,P1008,08-03-2022,3,"Average quality, acceptable."
+R247367,C101972,P1016,08-03-2022,2,Below expectations.
+R265969,C102424,P1011,05-03-2022,1,Extremely poor quality.
+R458773,C102762,P1015,05-03-2022,1,Extremely poor quality.
+R535644,C101776,P1021,03-03-2022,1,Extremely poor quality.
+R688043,C102070,P1023,28-02-2022,1,Extremely poor quality.
+R405711,C101290,P1025,28-02-2022,1,Extremely poor quality.
+R537129,C100839,P1008,26-02-2022,3,"Average quality, acceptable."
+R393610,C101494,P1008,20-02-2022,4,Satisfied with the performance.
+R142452,C100668,P1011,18-02-2022,4,Very good product.
+R880794,C101044,P1008,17-02-2022,3,"Average quality, acceptable."
+R771767,C102265,P1025,14-02-2022,3,Decent but can improve.
+R288488,C101834,P1008,08-02-2022,3,"Average quality, acceptable."
+R328979,C100345,P1011,05-02-2022,4,Very good product.
+R388199,C102990,P1017,05-02-2022,2,Not very satisfied.
+R876565,C102078,P1020,31-01-2022,1,Extremely poor quality.
+R584271,C101915,P1024,31-01-2022,2,Not very satisfied.
+R946717,C100572,P1021,28-01-2022,1,Very disappointed with this purchase.
+R749509,C102251,P1018,24-01-2022,1,Very disappointed with this purchase.
+R221039,C101110,P1003,22-01-2022,1,Extremely poor quality.
+R430234,C101365,P1010,20-01-2022,2,Not very satisfied.
+R940230,C101726,P1001,16-01-2022,5,"Excellent quality, highly recommend."
+R701846,C100639,P1019,13-01-2022,1,Extremely poor quality.
+R812438,C102162,P1015,12-01-2022,2,Below expectations.
+R231865,C100948,P1019,12-01-2022,1,Very disappointed with this purchase.
+R915800,C101492,P1016,09-01-2022,2,Not very satisfied.
+R794606,C100544,P1001,06-01-2022,4,Satisfied with the performance.

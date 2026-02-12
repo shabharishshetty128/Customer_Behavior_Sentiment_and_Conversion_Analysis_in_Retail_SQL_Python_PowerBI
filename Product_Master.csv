@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Sports_Category,Brand,Manufacturing_Location,Cost_Price_INR,Selling_Price_INR,Profit_Margin_Percent,Stock_Units
+P1001,Pro Match Football,Football,ProActive Sports,Bengaluru,1212,1393,15,1618
+P1002,Training Football,Football,ProActive Sports,Pune,2306,2813,22,385
+P1003,Goalkeeper Gloves,Football,ProActive Sports,Hyderabad,1139,1549,36,1616
+P1004,Football Training Cones,Football,ProActive Sports,Mumbai,1012,1345,33,964
+P1005,Football Shin Guards,Football,ProActive Sports,Delhi,544,636,17,547
+P1006,Premium Cricket Bat,Cricket,ProActive Sports,Hyderabad,4439,5948,34,154
+P1007,Leather Cricket Ball,Cricket,ProActive Sports,Pune,1928,2641,37,1430
+P1008,Batting Pads,Cricket,ProActive Sports,Chennai,4764,6097,28,551
+P1009,Cricket Helmet,Cricket,ProActive Sports,Mumbai,2578,3609,40,1880
+P1010,Swimming Goggles,Swimming,ProActive Sports,Bengaluru,1607,2201,37,965
+P1011,Professional Swim Cap,Swimming,ProActive Sports,Kolkata,2576,3065,19,540
+P1012,Racing Swim Suit,Swimming,ProActive Sports,Chennai,3057,3607,18,289
+P1013,Swimming Kickboard,Swimming,ProActive Sports,Bengaluru,1092,1375,26,1835
+P1014,Carbon Badminton Racket,Badminton,ProActive Sports,Pune,2466,3452,40,188
+P1015,Feather Shuttlecock,Badminton,ProActive Sports,Chennai,4063,5363,32,355
+P1016,Badminton Net,Badminton,ProActive Sports,Kolkata,945,1247,32,700
+P1017,Badminton Kit Bag,Badminton,ProActive Sports,Pune,3262,4338,33,493
+P1018,Tournament Tennis Racket,Tennis,ProActive Sports,Delhi,869,1008,16,1454
+P1019,Tennis Balls Pack,Tennis,ProActive Sports,Delhi,2670,3123,17,1851
+P1020,Tennis Grip Tape,Tennis,ProActive Sports,Chennai,1127,1431,27,669
+P1021,Tennis Wristband,Tennis,ProActive Sports,Bengaluru,3288,3945,20,858
+P1022,Indoor Basketball,Basketball,ProActive Sports,Pune,2016,2741,36,646
+P1023,Outdoor Basketball,Basketball,ProActive Sports,Delhi,884,1184,34,1400
+P1024,Basketball Hoop,Basketball,ProActive Sports,Delhi,4675,6451,38,601
+P1025,Basketball Shoes,Basketball,ProActive Sports,Pune,4086,5189,27,652
