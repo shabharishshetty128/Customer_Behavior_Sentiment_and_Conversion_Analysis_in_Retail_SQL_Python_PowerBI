@@ -76,10 +76,8 @@ Regional & State-wise Insights (2016–2022)
  - Expand the dataset to include newer banknotes and diverse counterfeit patterns.
 
 ## Limitations
- - Analysis is based on secondary data (RBI, NCRB), which may exclude undetected or unreported counterfeit cases.
- - Variations in state-wise reporting standards may affect data consistency and comparability.
- - Lack of real-time data limits tracking of ongoing counterfeit activities.
- - Detection model is trained on pre-2012 banknotes, reducing accuracy for newer ₹500 and ₹2000 designs.
- - Use of basic machine learning models limits performance compared to advanced methods like CNNs.
- - Public datasets (OpenML, Kaggle) may not reflect the latest counterfeiting techniques.
+ - Analysis limited to a fictional data and not based on real data.
+ - Sentiment classification depends on review text data quality.
+ - External market factors not included in the model.
+ - Findings will vary with real-time data.
 
