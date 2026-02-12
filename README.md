@@ -1,1 +1,1 @@
-# Market_Sentiment_analysis_for_Sports_Retail_Using_SQL_Python_and_Power-BI
+#Customer_Behavior_Sentiment_and_Conversion_Analysis_in_Retail_SQL_Python_PowerBI
