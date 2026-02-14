@@ -47,10 +47,8 @@ This project analyzes customer behavior, sentiment, and conversion performance i
  - A fictional data was created for project purpose using ChatGPT by providing appropriate prompt.
 
 ## Findings and Analysis
-
 Overview:
-
-<img width="939" height="496" alt="image" src="Marketing analysis_Overview.png" /> 
+ <img width="939" height="496" alt="image" src="Marketing analysis_Overview.png" /> 
  - High reach and engagement but low conversion efficiency (9%).
  - User engagement metrics show a gradual decline throughout the year.
  - Customer satisfaction is low, reflected in poor average ratings and high negative sentiment.
@@ -58,8 +56,7 @@ Overview:
  - Business opportunity lies in improving product quality, customer experience, and funnel optimization.
 
 Customer Interaction:
-
-<img width="940" height="484" alt="image" src="Marketing analysis_Customer_interaction.png" />
+ <img width="940" height="484" alt="image" src="Marketing analysis_Customer_interaction.png" />
  - Total engagement recorded 21.9M views, 7.66M clicks, and 3.43M likes.
  - Monthly trends show a steady decline in views, clicks, and likes over the year.
  - Engagement is relatively evenly distributed across Blog, Social Media, and Video content (~33% each).
@@ -67,7 +64,7 @@ Customer Interaction:
  - Indicates declining user interest or campaign fatigue over time.
 
 Customer Conversion:
-<img width="940" height="484" alt="image" src="Marketing analysis_Customer_Conversion.png" />
+ <img width="940" height="484" alt="image" src="Marketing analysis_Customer_Conversion.png" />
  - Overall conversion rate is 9%, with 448 purchases from 5036 visitors.
  - Conversion rate fluctuated between 5% and 13% across quarters, showing performance volatility.
  - Highest conversion was observed in 2023 (Q2 peak), while 2024 showed a noticeable dip.
@@ -75,7 +72,7 @@ Customer Conversion:
  - Major customer drop-off occurs between view and purchase stages, highlighting funnel optimization opportunities.
 
 Customer Rating:
-<img width="940" height="484" alt="image" src="Marketing analysis_Customer_rating.png" />
+ <img width="940" height="484" alt="image" src="Marketing analysis_Customer_rating.png" />
  - Overall average product rating is 2.26, indicating low customer satisfaction.
  - Majority of reviews are negative (highest share) compared to positive and mixed feedback.
  - Several products have strong ratings (above 3), but many fall below 2, pulling down the average.
