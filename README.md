@@ -36,44 +36,60 @@ This project analyzes customer behavior, sentiment, and conversion performance i
    
 ## Dataset Used
  - <a href="Customer_Master.csv">Customer_Dataset</a>
- - <a href="https://github.com/shabharishshetty128/EDA_Analysis-of-Fake-Currency-Circulation-in-India/blob/main/banknote_authentication.txt">Product_Dataset</a>
- - <a href="https://github.com/shabharishshetty128/EDA_Analysis-of-Fake-Currency-Circulation-in-India/blob/main/FICN_Data_file.xlsx">Geography_Dataset</a>
- - <a href="https://github.com/shabharishshetty128/EDA_Analysis-of-Fake-Currency-Circulation-in-India/blob/main/FICN_Data_file.xlsx">Customer_Engagement_Dataset</a>
- - <a href="https://github.com/shabharishshetty128/EDA_Analysis-of-Fake-Currency-Circulation-in-India/blob/main/FICN_Data_file.xlsx">Customer_Conversion_Dataset</a>
- - <a href="https://github.com/shabharishshetty128/EDA_Analysis-of-Fake-Currency-Circulation-in-India/blob/main/FICN_Data_file.xlsx">Customer_Review_Dataset</a>
+ - <a href="Product_Master.csv">Product_Dataset</a>
+ - <a href="Geography_Master.csv">Geography_Dataset</a>
+ - <a href="Customer_Engagement_Fact.csv">Customer_Engagement_Dataset</a>
+ - <a href="Customer_journey_fact.csv">Customer_Conversion_Dataset</a>
+ - <a href="Customer_Review_Fact.csv">Customer_Review_Dataset</a>
+ - <a href="Customer_reviews_with_Sentiments.csv">Customer_Sentiment_Analysis</a>
 
 ## Data Source
  - A fictional data was created for project purpose using ChatGPT by providing appropriate prompt.
 
 ## Findings and Analysis
-Denomination and Year-wise Insights (2015-2025)
-<img width="939" height="496" alt="image" src="https://github.com/user-attachments/assets/2ef12b71-1fa4-4a58-aafc-afd73c63d569" /> 
-<img width="940" height="484" alt="image" src="https://github.com/user-attachments/assets/eea4f1b4-615f-41e7-a7da-a7ba86abecb3" />
 
- - From FY2014–15 to FY2024–25, counterfeit currency circulation shows a major spike in FY2016–17, with over 7.6 lakh fake notes worth ₹43 crore seized, largely driven by forged ₹500 and ₹1000 notes prior to demonetization.
- - Demonetization caused a sharp short-term decline, but counterfeiters quickly adapted, shifting focus to ₹200 and ₹2000 denominations.
- - Fake ₹2000 notes increased steadily until FY2023–24, followed by a sharp drop in FY2024–25 after the withdrawal of the denomination.
- - ₹100 notes consistently remained among the most counterfeited, due to their high circulation and lower public scrutiny, while lower denominations showed minimal forgery.
+Overview:
 
-Regional & State-wise Insights (2016–2022)
-<img width="942" height="467" alt="image" src="https://github.com/user-attachments/assets/e0f69728-2b04-4fa3-aef5-393c554dd2eb" />
+<img width="939" height="496" alt="image" src="Marketing analysis_Overview.png" /> 
+ - High reach and engagement but low conversion efficiency (9%).
+ - User engagement metrics show a gradual decline throughout the year.
+ - Customer satisfaction is low, reflected in poor average ratings and high negative sentiment.
+ - Some products perform well in conversion and rating, but overall performance is inconsistent.
+ - Business opportunity lies in improving product quality, customer experience, and funnel optimization.
 
- - Gujarat recorded the highest seizure value (₹355.16 crore), significantly higher than all other states.
- - National counterfeit seizures spiked in 2022, reaching ₹3,826 crore, accounting for nearly 65% of the total seizures during the period.
- - The 2022 spike was largely driven by Gujarat, likely due to strong enforcement actions or the busting of a major counterfeit network.
- - Maharashtra, Delhi, Karnataka, and West Bengal consistently ranked among the top counterfeit-prone states.
- - Delhi reported over ₹37 crore in seizures, reflecting its importance as a high-cash, high-transaction circulation hub.
- - Counterfeit activity was concentrated in economically active and border states such as West Bengal, Punjab, and Assam, indicating possible cross-border smuggling routes.
- - Smaller states and Union Territories showed minimal seizure values, suggesting lower penetration or limited circulation.
+Customer Interaction:
+
+<img width="940" height="484" alt="image" src="Marketing analysis_Customer_interaction.png" />
+ - Total engagement recorded 21.9M views, 7.66M clicks, and 3.43M likes.
+ - Monthly trends show a steady decline in views, clicks, and likes over the year.
+ - Engagement is relatively evenly distributed across Blog, Social Media, and Video content (~33% each).
+ - Some products consistently generate high views, but engagement weakens in later months.
+ - Indicates declining user interest or campaign fatigue over time.
+
+Customer Conversion:
+<img width="940" height="484" alt="image" src="Marketing analysis_Customer_Conversion.png" />
+ - Overall conversion rate is 9%, with 448 purchases from 5036 visitors.
+ - Conversion rate fluctuated between 5% and 13% across quarters, showing performance volatility.
+ - Highest conversion was observed in 2023 (Q2 peak), while 2024 showed a noticeable dip.
+ - Several products maintain stable ~10–11% conversion, indicating consistent but moderate performance.
+ - Major customer drop-off occurs between view and purchase stages, highlighting funnel optimization opportunities.
+
+Customer Rating:
+<img width="940" height="484" alt="image" src="Marketing analysis_Customer_rating.png" />
+ - Overall average product rating is 2.26, indicating low customer satisfaction.
+ - Majority of reviews are negative (highest share) compared to positive and mixed feedback.
+ - Several products have strong ratings (above 3), but many fall below 2, pulling down the average.
+ - Ratings vary by manufacturing location, suggesting possible quality or supply differences.
+ - Negative sentiment trends highlight urgent need for product or service improvement.
 
 ## Recommendations
- - Enhance currency security features, especially for high-use notes like ₹100 and ₹500.
- - Increase public awareness on identifying fake notes using visible security markers.
- - Strengthen border surveillance in high-risk states such as West Bengal, Punjab, and Assam.
- - Improve inter-agency coordination between RBI, banks, and law enforcement agencies.
- - Set up specialized anti-counterfeit units in states with high FICN activity.
- - Upgrade bank detection systems with advanced scanning and sorting technologies.
- - Expand the dataset to include newer banknotes and diverse counterfeit patterns.
+1. Improve Product Quality.
+2. Enhance Customer Experience by strengthen after-sales support.
+3. Increase Conversion Rate by providing first-time buyer incentives and offering limited-time discounts and combo offers.
+4. Focus marketing budget on high-converting products.
+5. Discontinue consistently weak-performing SKUs.
+6. Plan campaigns around sports seasons and festivals.
+7. Improve Brand Reputation by responding negative reviews professionally.
 
 ## Limitations
  - Analysis limited to a fictional data and not based on real data.
